@@ -38,6 +38,7 @@ python main.py
 ## 📊 Results
 When testing the model on the input image, it successfully recognized and classified it with very high confidence:
 <img width="1036" height="255" alt="image" src="https://github.com/user-attachments/assets/999cd0cd-db62-4f1d-868d-53d102f1f419" />
+<img width="1588" height="913" alt="image" src="https://github.com/user-attachments/assets/ffea76d3-a073-4cf7-b4de-103ae7913c06" />
 
 * **Predicted Class:** Appels (Apples)
 * **Confidence Score:** 0.998 (equivalent to 99.8%)
