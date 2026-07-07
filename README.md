@@ -1,6 +1,3 @@
-# AI-Image-Recognition
-# Image Classification Project using Teachable Machine and Python
-
 # Image Classification Project using Teachable Machine and Python
 
 This project is a practical application of training a Machine Learning model to recognize and classify images using Google's **Teachable Machine**, then exporting and running it locally via **Python** within the **Anaconda** environment.
