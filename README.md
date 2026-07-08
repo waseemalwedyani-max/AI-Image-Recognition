@@ -1,6 +1,17 @@
 # Image Classification Project using Teachable Machine and Python
 
 This project is a practical application of training a Machine Learning model to recognize and classify images using Google's **Teachable Machine**, then exporting and running it locally via **Python** within the **Anaconda** environment.
+## 🧠 Model Training Process (Teachable Machine)
+
+Before testing the model locally, it was trained using Google's Teachable Machine by following these steps:
+
+1. Opened **Teachable Machine** and created a new **Image Project**.
+2. Created the required classes (e.g., 'Appels') and uploaded a dataset of images for each category.
+3. Clicked **Train Model** to allow the system to learn the patterns and features from the provided dataset.
+4. Exported the trained model by selecting **Export Model** -> **TensorFlow** -> **Keras** format.
+5. Downloaded the generated `keras_model.h5` and `labels.txt` files to integrate them locally with the Python script.
+
+---
 
 ## 📁 Repository Structure
 * `main.py`: The Python script that loads the model, processes the input image, and predicts its class.
